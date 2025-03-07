@@ -5,9 +5,6 @@ I've been learning and gaining skills in App Dev with flutter. Through the proce
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ramanipalak4105@gmail.com](mailto:ramanipalak4105@gmail.com)
-* 🧠  I'm learning Full Stack Development
-* 🤝  I'm open to collaborating on Interesting Projects no matter small or big :)
-* ⚡  Binge watching movies❤️
 
 ### Skills
 
